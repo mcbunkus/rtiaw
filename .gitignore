@@ -5,6 +5,10 @@
 *.ppm
 *.json
 
+!CMakeLists.txt
+
 rtiaw
 
 .cache/
+build/
+release/
